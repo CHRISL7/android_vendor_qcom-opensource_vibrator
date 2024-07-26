@@ -80,6 +80,8 @@ namespace vibrator {
 #define APQ_CPU_KALAMA          536
 #define MSM_CPU_KALAMA_SG       600
 #define APQ_CPU_KALAMA_SG       601
+#define MSM_CPU_PINEAPPLE       557
+#define MSM_CPU_PINEAPPLE       577
 
 #define test_bit(bit, array)    ((array)[(bit)/8] & (1<<((bit)%8)))
 
